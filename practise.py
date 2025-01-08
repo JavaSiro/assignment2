@@ -72,8 +72,16 @@
 # for key,value in cars.items():
 #     print(f'{key} is {value}')
 
-#o
-cars={'ferrari':'red', 'bmw':'black'}
-neworder=[]
-if cars.keys.len
--               
+#o,p,q
+# cars={'ferrari':'red', 'bmw':'black'}
+# newcars={}
+# for key,value in cars.items():
+#     if len(key)==3:
+#         newcars[key.upper()]=value
+#     else:
+#         newcars[key[0].upper()+key[1:]]=value
+# print(newcars)
+# print(sorted(newcars.keys()))
+# print(sorted(newcars.values()))
+# for key,value in cars.items():
+#     print(f'{key} {value}')
