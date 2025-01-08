@@ -81,10 +81,16 @@
 
 #q,r,s are identical to bcd
 #t
-list=[]
-nums=1
-while nums<=30:
-    list.append(nums)
-    if nums%3==0:
-        nums+=1
-print(nums*2)
+# list=[]
+# nums=1
+# while nums<=30:
+#     if nums%3==0:
+#         list.append(nums*2)
+#     nums+=1
+# print(list)
+
+#u
+# cars=[ 'lacetti', 'nexia', 'toyota', 'nexia', 'audi', 'malibu', 'nexia']
+# while 'nexia' in cars:
+#     cars.remove('nexia')
+# print(cars)
