@@ -66,4 +66,25 @@
 #     print(f'{nums**(1/3):.1f}')
 #     nums+=1
 
-#m
+#m,n,o,p
+# list=[]
+# nums=0
+# while nums<=10:
+#     list.append(nums)
+#     nums+=1
+# print(list)
+# max=max(list)
+# min=min(list)
+# mysum=sum(list)
+# mean = sum(list) / len(list)
+# print(max, 'is the max num,' ' min is', min, ', sum is', mysum,', mean is', mean)
+
+#q,r,s are identical to bcd
+#t
+list=[]
+nums=1
+while nums<=30:
+    list.append(nums)
+    if nums%3==0:
+        nums+=1
+print(nums*2)
